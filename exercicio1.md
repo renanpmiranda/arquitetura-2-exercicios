@@ -17,3 +17,6 @@ VALUES
 ("c002", "React", 10),
 ("c003", "Typescript", 15);
 ```
+## Atenção
+
+Caso o processo de desenvolvimento da API com POO e Arquitetura ainda esteja complicado, tente implementar sem os conceitos e depois refatore.
