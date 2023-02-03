@@ -19,4 +19,4 @@ VALUES
 ```
 ## Atenção
 
-Caso o processo de desenvolvimento da API com POO e Arquitetura ainda esteja complicado, tente implementar sem os conceitos e depois refatore.
+Caso o processo de desenvolvimento da API com POO e Arquitetura ainda esteja complicado, tente implementar sem os conceitos e depois refatore referenciando o que foi feito em aula e no material assíncrono.
